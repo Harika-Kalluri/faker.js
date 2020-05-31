@@ -1,0 +1,20 @@
+module["exports"] = [
+"xiaomi",
+"motorola",
+"samsung",
+"lenovo",
+"oneplus",
+"apple",
+"oppo",
+"vivo",
+"realme",
+"oneplus",
+"nokia",
+"honor",
+"poco",
+"asus",
+"panasonic",
+"coolpad",
+"sony",
+"htc"
+]
